@@ -1,0 +1,96 @@
+.bg-grey{
+    background-color: grey;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.height-100{
+    height: 100px;
+}
+.height-400{
+    height: 400px;
+}
+.height-50{
+    height: 50px;
+}
+.brown{
+    background-color: brown !important;
+    color: white !important;
+}
+.bg-brown{
+    background-color: brown;
+}
+.bg-light-grey{
+    background-color: lightgrey;
+}
+.bg-deepash{
+    background-color: #706d6a;
+}
+.bg-white{
+    background-color: white;
+}
+.btn-reg
+{
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 2px !important;
+}
+.user{
+    background-color: burlywood;
+    padding: 5px 10px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px #4b4949;
+    border-radius: 20px;
+    margin-left: -20%;
+    margin-right: 5px;
+}
+.search-box{
+    height: 30px !important;
+}
+.-pt2{
+    padding-top: 2px !important;
+}
+.flex-container {
+    display: flex;
+    justify-content: end;
+  }
+  
+  .flex-container  .sign-a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 25px;
+    padding-bottom: 28px;
+    margin-left: 24px;
+    margin-top: 9px;
+    border-radius: 50px;
+    color: black;
+    text-decoration: none;
+  }
+  .btn-search{
+    border: none !important;
+    border-radius: 10px !important;
+    padding: 1px !important;
+    margin-left: -10% !important;
+    width: 20px !important;
+  }
+  .btn-h{
+    font-size: 1rem;
+    line-height: 0.5;
+    text-decoration: none;
+    font-weight: 400;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  .card-img-top{
+    height: 200px;
+  }
+  body{
+    background-color: #B2ABA3 !important;
+  }
+  .bd-dark{
+    background-color: burlywood !important;
+  }
+  .sign-a{
+    text-decoration: none;
+    color: black !important;
+  }
